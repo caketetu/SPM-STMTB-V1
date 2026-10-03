@@ -9959,7 +9959,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R4.7k"
+		(property "Value" "R1k"
 			(at 34.036 164.592 0)
 			(effects
 				(font
